@@ -12,7 +12,7 @@ git clone https://github.com/romkatv/powerlevel10k $ZSH_CUSTOM/themes/powerlevel
 ``` 
 ## Install Auto Suggestions Plugin:
 ```sh
-git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/themes/powerlevel10k
+git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ``` 
 
 ## Install Syntax Highlighting:
