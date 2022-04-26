@@ -44,3 +44,8 @@ sudo curl https://getmic.ro/ | bash
 
 ## Download Nerd Fonts:
 1. [https://www.nerdfonts.com](https://www.nerdfonts.com/)
+2. Download the recommended [Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FiraMono.zip)
+3. Open the folder that was just downloaded and install Fura Mono Complete by double clicking it. 
+4. Open your Terminal preferences and change the font to the one we just downloaded.  
+5. Close and restart the terminal.
+6. Follow the setup wizard and you are done! 
