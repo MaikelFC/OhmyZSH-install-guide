@@ -1,5 +1,6 @@
 # How to install Oh my ZSH on mac and make it look sweet. 
 
+![beautiful!](./42A48A82-EF16-4519-98DC-338AAD743B0E_4_5005_c.jpeg "San Juan Mountains")
 
 
 ## Install Oh My Zsh: 
